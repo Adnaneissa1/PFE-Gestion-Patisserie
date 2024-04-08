@@ -1,0 +1,36 @@
+.contact_h{
+    text-align: center;
+    padding: 50px;
+}
+.contact_h h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+}
+.contact_h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 15px;
+    font-weight: 500;
+    font-style: oblique;
+    font-size: 80px;
+}
+.contact{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    
+}
+.input::placeholder{
+    color: rgb(18, 227, 227);
+}
+.input{
+    color: rgb(18, 227, 227);
+}
+.contact_alert{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 100px;
+}
+
+.contact_h2{
+    display: flex;
+    justify-content: space-around;
+}
