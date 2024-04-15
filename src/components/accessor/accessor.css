@@ -1,0 +1,44 @@
+/* LoginButtons.css */
+
+/* Styles for the Facebook login button */
+.facebook-login-button {
+    background-color: #3b5998; /* Facebook blue */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .facebook-login-button:hover {
+    background-color: #2d4373; /* Darker shade of Facebook blue */
+  }
+  
+  /* Styles for the Google login button */
+  .google-login-button {
+    background-color: #db4437; /* Google red */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .google-login-button:hover {
+    background-color: #c1351a; /* Darker shade of Google red */
+  }
+  
+  /* Styles for the logout button */
+  .logout-button {
+    background-color: #ccc;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .logout-button:hover {
+    background-color: #bbb;
+  }
+  
